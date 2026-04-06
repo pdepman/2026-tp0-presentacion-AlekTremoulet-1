@@ -38,7 +38,6 @@ La belleza de la música está en el contraste. Apreciamos la calma porque conoc
 
 ---
 
-### Contacto & Redes
 <p align="left">
   <a href="https://open.spotify.com/user/alek3249?si=a94f934495274659" target="_blank">
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
